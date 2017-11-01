@@ -1,0 +1,114 @@
+mcc -W python:BtRecLib -T link:lib -d C:\Users\Administrator\Desktop\BtRecLib\BtRecLib\source\BtRecLib\for_testing -v C:\Users\Administrator\Desktop\BtRecLib\BtRecLib\source\start.m 
+Compiler version: 6.1 (R2015b)
+
+Dependency analysis by REQUIREMENTS.
+
+Begin validation of MEX files: Wed Nov 01 19:30:47 2017
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwboxfilter.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwboxfilter3.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwbwpackc.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwbwpackctbb.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwbwunpackc.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwbwunpackctbb.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwcannythresholding_tbb.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwedgethinning_tbb.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwgrayto16.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwgrayto8.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwimreconstruct.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwint16touint16.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwipp.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwippBinder.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwippfilter.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwippgeotrans.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwippmedianfilter.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwippreconstruct.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwiptutil.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwmorphop_binary_tbb.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwmorphop_ipp.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwmorphop_packed.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwneighborhood.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwnhood.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwtbbhist.dll'.
+No conflicting MATLAB file found.
+Validating 'C:\Program Files (x86)\MATLAB\R2015b\bin\win32\libmwuint16toint16.dll'.
+No conflicting MATLAB file found.
+End validation of MEX files: Wed Nov 01 19:30:47 2017
+[警告: Adding path "C:\Users\Administrator\Desktop\BtRecLib\BtRecLib\source" to
+Compiler path instance.] 
+[] 
+Parsing file "C:\Users\Administrator\Desktop\BtRecLib\BtRecLib\source\start.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 41 temporary MEX authorization files.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d420398_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d430083_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d417219_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d431932_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d41753_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d410458_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d45632_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d422654_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d410464_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d43867_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d414716_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d414735_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d414433_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d42236_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d44963_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d46584_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d41934_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d48318_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d416261_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d412632_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d42524_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d426190_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d43884_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d418787_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d428155_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d429033_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d417200_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d430679_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d49516_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d424065_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d418674_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d432767_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d42732_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d421725_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d42705_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d429646_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d4895_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d429410_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d41861_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d410407_4820.auth'.
+Removing: 'C:\Users\ADMINI~1\AppData\Local\Temp\mathworks_tmp_012d422092_4820.auth'.
+Generating file "C:\Users\Administrator\Desktop\BtRecLib\BtRecLib\source\BtRecLib\for_testing\BtRecLib\__init__.py".
+Generating file "C:\Users\Administrator\Desktop\BtRecLib\BtRecLib\source\BtRecLib\for_testing\setup.py".
+Generating file "C:\Users\Administrator\Desktop\BtRecLib\BtRecLib\source\BtRecLib\for_testing\readme.txt".
+正在打包...
+Creating the bundle...
+Web based installer created at C:\Users\Administrator\Desktop\BtRecLib\BtRecLib\source\BtRecLib\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 46 seconds.
